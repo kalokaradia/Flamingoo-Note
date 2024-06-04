@@ -48,7 +48,7 @@ export const Note = () => {
         <div className="flex flex-wrap">
           <div className="w-full">
             <h1 className="text-center text-4xl font-bold uppercase">
-              Buat Catatan
+              Buat Notes
             </h1>
             <form className="mt-10" onSubmit={handleSubmit}>
               <input
